@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"0.8.6","packageVersion":"0.8.6","packageName":"@teachablemachine/pose","timeStamp":"2025-03-19T10:10:15.518Z","userMetadata":{},"modelName":"my-pose-model","labels":["arbre","run","sad","reverse run","why","Eiffel tower"],"modelSettings":{"posenet":{"architecture":"MobileNetV1","outputStride":16,"inputResolution":257,"multiplier":0.75}}}
