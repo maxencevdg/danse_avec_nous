@@ -82,4 +82,31 @@ body {
   color: #ff4081;
 }
 
-
+@media screen and (max-width: 1000px) {
+  .container {
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+  }
+  .left-side {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+  }
+  .right-side {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  .left-side canvas {
+    width: 100%;
+    height: auto;
+  }
+}
