@@ -1,0 +1,82 @@
+[
+  {
+    "expectedPose": "arbre",
+    "startTime": 15,
+    "endTime": 17
+  },
+  {
+    "expectedPose": "why",
+    "startTime": 18,
+    "endTime": 20
+  },
+  {
+    "expectedPose": "run",
+    "startTime": 21,
+    "endTime": 22
+  },
+  {
+    "expectedPose": "reverse run",
+    "startTime": 22,
+    "endTime": 23
+  },
+  {
+    "expectedPose": "arbre",
+    "startTime": 23,
+    "endTime": 24
+  },
+  {
+    "expectedPose": "sad",
+    "startTime": 23,
+    "endTime": 24
+  },
+  {
+    "expectedPose": "why",
+    "startTime": 23,
+    "endTime": 24
+  },
+  {
+    "expectedPose": "eiffel tower",
+    "startTime": 23,
+    "endTime": 24
+  },
+  {
+    "expectedPose": "arbre",
+    "startTime": 27,
+    "endTime": 28
+  },
+  {
+    "expectedPose": "why",
+    "startTime": 30,
+    "endTime": 31
+  },
+  {
+    "expectedPose": "run",
+    "startTime": 33,
+    "endTime": 34
+  },
+  {
+    "expectedPose": "reverse run",
+    "startTime": 34,
+    "endTime": 35
+  },
+  {
+    "expectedPose": "arbre",
+    "startTime": 35,
+    "endTime": 36
+  },
+  {
+    "expectedPose": "sad",
+    "startTime": 35,
+    "endTime": 36
+  },
+  {
+    "expectedPose": "why",
+    "startTime": 35,
+    "endTime": 36
+  },
+  {
+    "expectedPose": "eiffel tower",
+    "startTime": 35,
+    "endTime": 36
+  }
+]
