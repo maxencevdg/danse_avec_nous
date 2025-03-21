@@ -30,14 +30,6 @@ video/
   - `timecodes.json` : Timecodes des poses attendues.
   - `video2.mp4` : Vidéo de danse.
 
-## Installation
-
-1. Clonez le dépôt :
-   ```sh
-   git clone <URL_DU_DEPOT>
-   ```
-2. Ouvrez le fichier `index.html` dans votre navigateur.
-
 ## Utilisation
 
 1. Cliquez sur le bouton "Start" pour démarrer la vidéo et la reconnaissance de poses.
